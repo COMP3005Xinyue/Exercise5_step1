@@ -1,0 +1,54 @@
+Github link:
+
+explain:
+Open main to test, the output print is below.
+NewsItem: SkatingNews, SkiNews, BobsleighNews, HockeyNews
+NewsItemGenerator: LongNewsItemGenerator, ShortNewsItemGenerator
+NewsGenerator: LongNewsGenerator, ShortNewsGenerator
+TitleGenerator: Long_title, Short_title
+SummaryGenerator: Long_Summary, Short_Summary
+FederationGenerator: Long_Federation, Short_Federation
+
+Output:
+TEST CASE 1
+--- Preparing a long skating news item ---
+Preparing skating news
+Editing this news item
+Finalizing this new item
+Short version for communique1 skating news item
+short title generated for communique1
+short federation name generated for communique1
+short summary generated for communique1
+
+
+TEST CASE 2
+--- Preparing a long ski news item ---
+Preparing ski news
+Editing this news item
+Finalizing this new item
+Long version for communique1 ski news item
+short title generated for communique1
+ong federation name generated for communique1
+long summary generated for communique1
+
+
+TEST CASE 3
+--- Preparing a long bobsleigh news item ---
+Preparing bobsleigh news
+Editing this news item
+Finalizing this new item
+Short version for communique2 bobsleigh news item
+short title generated for communique2
+short federation name generated for communique2
+short summary generated for communique2
+
+
+TEST CASE 4
+--- Preparing a long hockey news item ---
+Preparing hockey news
+Editing this news item
+Finalizing this new item
+Long version for communique3 hockey news item
+short title generated for communique3
+ong federation name generated for communique3
+long summary generated for communique3
